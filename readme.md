@@ -6,4 +6,4 @@ This is a simple project that showcases a fictional arts and crafts store. The p
 
 ---
 
-![Dasmoto Arts & Crafts]('./assets/picture.png')
+![Dasmoto Arts & Crafts](assets/picture.png)
